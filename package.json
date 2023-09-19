@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apexcharts": "^3.37.0",
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}
